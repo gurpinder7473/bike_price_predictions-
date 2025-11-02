@@ -1,0 +1,5 @@
+{
+  "name": "Bike Price Predictor",
+  "description": "An AI-powered web application to predict the price of used motorcycles in India. Enter the bike's details to get an estimated market value based on a vast dataset and real-time analysis.",
+  "requestFramePermissions": []
+}
